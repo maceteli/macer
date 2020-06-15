@@ -130,10 +130,10 @@ a > .box-1, .box-2, .box-3, .box-4 {
 .about-us{
     margin-left:120px;
     margin-right:120px;
-    padding-bottom:30px;
+    padding-bottom:60px;
 }
 .we-are{
-    margin-top:30px;
+    margin-top:60px;
     margin-bottom:15px;
     font-family: Oswald-bold;
     font-size:30px;
@@ -141,6 +141,7 @@ a > .box-1, .box-2, .box-3, .box-4 {
 .about-content{
     font-size:20px;
     margin-left:30px;
+    margin-bottom:60px;
     font-family:Oswald-light
 }
 footer{
