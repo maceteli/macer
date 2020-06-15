@@ -136,10 +136,10 @@ a > .box-1, .box-2, .box-3, .box-4 {
     margin-top:60px;
     margin-bottom:15px;
     font-family: Oswald-bold;
-    font-size:30px;
+    font-size:15px;
 }
 .about-content{
-    font-size:20px;
+    font-size:15px;
     margin-left:30px;
     margin-bottom:60px;
     font-family:Oswald-light
@@ -157,11 +157,11 @@ footer{
     margin-top:30px;
     margin-bottom:15px;
     font-family: Oswald-bold;
-    font-size:30px;
+    font-size:15px;
     color:#fff;
 }
 .contact-us{
-    font-size:20px;
+    font-size:15px;
     margin-left:30px;
     font-family:Oswald-light;
     color:#fff;
