@@ -200,8 +200,9 @@ footer{
         
     }
     .box-1, .box-2, .box-3, .box-4{
-        
+        font-size:25px;
         margin-right:0px;
+        height:200px;
     }
     .about-us,.higher-footer{
         margin-left:60px;
