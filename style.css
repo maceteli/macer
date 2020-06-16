@@ -63,7 +63,7 @@ header{
     margin-right:30px;
 }
 .box-1{
-    background-image: linear-gradient(rgba(212,224,36,1),rgba(0,0,0,0.95));
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.95)),url(img/joanna-kosinska-1_CMoFsPfso-unsplash.jpg);
     background-size: cover;
     background-attachment:scroll;
     height:300px;
@@ -81,7 +81,7 @@ a > .box-1, .box-2, .box-3, .box-4 {
     color:#fff;
 }
 .box-2{
-    background-image: linear-gradient(rgba(90,150,163,1),rgba(0,0,0,0.95));
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.95)),url(img/estee-janssens-HAzwnsI9oEQ-unsplash.jpg);
     background-size: cover;
     background-attachment:scroll;
     height:300px;
@@ -97,7 +97,7 @@ a > .box-1, .box-2, .box-3, .box-4 {
    
 }
 .box-3{
-    background-image: linear-gradient(rgba(224,140,36,1),rgba(0,0,0,0.95));
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.95)),url(img/brando-makes-branding-ljurPRAnLAQ-unsplash.jpg);
     background-size: cover;
     background-attachment:scroll;
     height:300px;
@@ -112,7 +112,7 @@ a > .box-1, .box-2, .box-3, .box-4 {
    padding:30px;
 }
 .box-4{
-    background-image: linear-gradient(rgba(224,36,83,1),rgba(0,0,0,0.95));
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.95)), url(img/2442380.jpg);
     background-size: cover;
     background-attachment:scroll;
     height:300px;
@@ -175,6 +175,7 @@ footer{
     padding-right:30px;
     padding-top:20px;
     font-family:Oswald-light;
+
 }
 .social{
     right:0;
@@ -191,7 +192,8 @@ footer{
     }
     .top-text{
         font-family: Oswald-bold;
-        font-size:20px;
+        line-height: 50px;
+        font-size:40px;
         margin-top:30px;
     }
     .bottom-text{
@@ -210,7 +212,16 @@ footer{
         margin-right:60px;
         padding-bottom:30px;
     }
-   
+    .contact-us{
+        font-size:10px;
+        margin-left:30px;
+        font-family:Oswald-light;
+        color:#fff;
+    }
+    .lower-footer{
+       
+        font-size:10px;
+    }
   
 }
 
@@ -268,9 +279,12 @@ footer{
     font-size:30px;
   }
   .site-title{
+      background-color: #000;
+      padding:6px;
+      color:#fff;
       position: absolute;
       margin-left:30px;
-      font-size:30px;
+      font-size:15px;
       font-family: Oswald-bold;
       margin-top:30px;
       top:0;
